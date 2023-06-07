@@ -1,1 +1,2 @@
-0 string SCHOOL School data file
+file -b --mime-type * | sed 's!\(.*\):\([a-zA-Z/]*\)! \1: \2!' | tr '\n' ', ' | sed 's/,$/\n/'
+
