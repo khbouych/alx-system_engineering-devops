@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-script display current dir 
+this repo will contains all basics of practice to be SE
